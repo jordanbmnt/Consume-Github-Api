@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "name": "jordan-beaumont-186-consume-github-api-javascript",
+  "description": "Consume Github API (186)\r For raw project instructions see: http://syllabus.africacode.net/projects/github-api-consume/",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Umuzi-org/Jordan-Beaumont-186-consume-github-api-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Umuzi-org/Jordan-Beaumont-186-consume-github-api-javascript/issues"
+  },
+  "homepage": "https://github.com/Umuzi-org/Jordan-Beaumont-186-consume-github-api-javascript#readme"
+}
